@@ -8,7 +8,7 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"
 
-	"github.com/JasonTangJun/gen/internal/model"
+	"github.com/JasonTangJun/gen/internalopen/model"
 )
 
 /*

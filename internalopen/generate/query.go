@@ -10,8 +10,8 @@ import (
 	"gorm.io/gorm/schema"
 
 	"github.com/JasonTangJun/gen/field"
-	"github.com/JasonTangJun/gen/internal/model"
-	"github.com/JasonTangJun/gen/internal/parser"
+	"github.com/JasonTangJun/gen/internalopen/model"
+	"github.com/JasonTangJun/gen/internalopen/parser"
 )
 
 type FieldParser interface {

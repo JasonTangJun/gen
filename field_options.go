@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/JasonTangJun/gen/field"
-	"github.com/JasonTangJun/gen/internal/generate"
-	"github.com/JasonTangJun/gen/internal/model"
+	"github.com/JasonTangJun/gen/internalopen/generate"
+	"github.com/JasonTangJun/gen/internalopen/model"
 	"gorm.io/gorm/schema"
 )
 

@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/JasonTangJun/gen/internal/model"
-	"github.com/JasonTangJun/gen/internal/parser"
+	"github.com/JasonTangJun/gen/internalopen/model"
+	"github.com/JasonTangJun/gen/internalopen/parser"
 )
 
 // InterfaceMethod interface's method

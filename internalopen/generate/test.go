@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/JasonTangJun/gen/internal/parser"
+	"github.com/JasonTangJun/gen/internalopen/parser"
 )
 
 //GetTestParamInTmpl return param list

@@ -12,8 +12,8 @@ import (
 
 	"github.com/JasonTangJun/gen/field"
 	"github.com/JasonTangJun/gen/helper"
-	"github.com/JasonTangJun/gen/internal/model"
-	"github.com/JasonTangJun/gen/internal/parser"
+	"github.com/JasonTangJun/gen/internalopen/model"
+	"github.com/JasonTangJun/gen/internalopen/parser"
 )
 
 // GetQueryStructMeta generate db model by table name
