@@ -5,7 +5,7 @@ Install GEN as a binary tool
 ## install
 
 ```shell
- go install JasonTangJun/gen/tools/gentool@latest
+ go install github.com/JasonTangJun/gen/tools/gentool@latest
 ```
 
 ## usage

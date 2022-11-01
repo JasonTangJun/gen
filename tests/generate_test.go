@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"JasonTangJun/gen"
+	"github.com/JasonTangJun/gen"
 )
 
 const (

@@ -1,4 +1,4 @@
-module JasonTangJun/gen
+module github.com/JasonTangJun/gen
 
 go 1.16
 

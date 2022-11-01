@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"JasonTangJun/gen/examples/dal/query"
+	"github.com/JasonTangJun/gen/examples/dal/query"
 )
 
 var q = query.Q

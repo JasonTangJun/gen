@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"JasonTangJun/gen/tests/.expect/dal_test/query"
+	"github.com/JasonTangJun/gen/tests/.expect/dal_test/query"
 )
 
 var useOnce sync.Once

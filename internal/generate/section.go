@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"JasonTangJun/gen/internal/model"
+	"github.com/JasonTangJun/gen/internal/model"
 )
 
 // NewSection create and initialize Sections

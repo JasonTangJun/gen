@@ -1,9 +1,9 @@
 package main
 
 import (
-	"JasonTangJun/gen"
-	"JasonTangJun/gen/examples/conf"
-	"JasonTangJun/gen/examples/dal"
+	"github.com/JasonTangJun/gen"
+	"github.com/JasonTangJun/gen/examples/conf"
+	"github.com/JasonTangJun/gen/examples/dal"
 )
 
 func init() {

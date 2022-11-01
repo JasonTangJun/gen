@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"JasonTangJun/gen/helper"
+	"github.com/JasonTangJun/gen/helper"
 )
 
 var _ helper.Object = new(Demo)

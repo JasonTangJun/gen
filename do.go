@@ -12,8 +12,8 @@ import (
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/schema"
 
-	"JasonTangJun/gen/field"
-	"JasonTangJun/gen/helper"
+	"github.com/JasonTangJun/gen/field"
+	"github.com/JasonTangJun/gen/helper"
 )
 
 // ResultInfo query/execute info

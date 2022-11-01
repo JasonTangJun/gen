@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	"JasonTangJun/gen/examples/biz"
-	"JasonTangJun/gen/examples/conf"
-	"JasonTangJun/gen/examples/dal"
-	"JasonTangJun/gen/examples/dal/query"
+	"github.com/JasonTangJun/gen/examples/biz"
+	"github.com/JasonTangJun/gen/examples/conf"
+	"github.com/JasonTangJun/gen/examples/dal"
+	"github.com/JasonTangJun/gen/examples/dal/query"
 )
 
 func init() {

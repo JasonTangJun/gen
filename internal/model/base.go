@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"JasonTangJun/gen/field"
+	"github.com/JasonTangJun/gen/field"
 )
 
 const (

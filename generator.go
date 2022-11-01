@@ -19,12 +19,12 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"
 
-	"JasonTangJun/gen/helper"
-	"JasonTangJun/gen/internal/generate"
-	"JasonTangJun/gen/internal/model"
-	"JasonTangJun/gen/internal/parser"
-	tmpl "JasonTangJun/gen/internal/template"
-	"JasonTangJun/gen/internal/utils/pools"
+	"github.com/JasonTangJun/gen/helper"
+	"github.com/JasonTangJun/gen/internal/generate"
+	"github.com/JasonTangJun/gen/internal/model"
+	"github.com/JasonTangJun/gen/internal/parser"
+	tmpl "github.com/JasonTangJun/gen/internal/template"
+	"github.com/JasonTangJun/gen/internal/utils/pools"
 )
 
 // T generic type

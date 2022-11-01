@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"JasonTangJun/gen"
+	"github.com/JasonTangJun/gen"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"

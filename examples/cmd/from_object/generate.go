@@ -1,8 +1,8 @@
 package main
 
 import (
-	"JasonTangJun/gen"
-	"JasonTangJun/gen/helper"
+	"github.com/JasonTangJun/gen"
+	"github.com/JasonTangJun/gen/helper"
 )
 
 var detail, data helper.Object

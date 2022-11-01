@@ -7,7 +7,7 @@
 ## 安装
 
 ```shell
- go install JasonTangJun/gen/tools/gentool@latest
+ go install github.com/JasonTangJun/gen/tools/gentool@latest
 ```
 
 ## 使用方式

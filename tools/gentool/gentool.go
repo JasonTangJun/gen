@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"JasonTangJun/gen"
+	"github.com/JasonTangJun/gen"
 	"gopkg.in/yaml.v3"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/postgres"
