@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"gorm.io/gen/internal/model"
-	"gorm.io/gen/internal/parser"
+	"JasonTangJun/gen/internal/model"
+	"JasonTangJun/gen/internal/parser"
 )
 
 // InterfaceMethod interface's method

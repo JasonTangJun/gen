@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"gorm.io/gen/field"
+	"JasonTangJun/gen/field"
 )
 
 const (

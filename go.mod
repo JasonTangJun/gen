@@ -1,4 +1,4 @@
-module gorm.io/gen
+module JasonTangJun/gen
 
 go 1.16
 
